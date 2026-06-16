@@ -1,71 +1,121 @@
-Ibrahim Haruna Alfa
+Hi, I'm Ibrahim Haruna Alfa
 
-Full-Stack Product Engineer & AI Automation Specialist
+Data Analyst | Operations Coordinator | AI Automation Specialist
 
-I build scalable software products, AI-powered workflow systems, and automation infrastructure for startups and digital businesses.
+I am a Data Analyst and Operations Professional passionate about transforming data into actionable insights, improving operational efficiency, and leveraging technology to solve business challenges.
 
-What I Work On
+My experience spans data analytics, business reporting, project coordination, administrative operations, AI-powered productivity solutions, and cybersecurity fundamentals.
 
-- Full-stack product engineering
-- AI workflow automation
-- SaaS systems
-- API integrations
-- Business operations dashboards
-- Technical systems architecture
-- Startup infrastructure
+Core Skills
 
-Current Focus
+Data Analytics
 
-- AI-powered business systems
-- Workflow automation with OpenAI + n8n
-- Product engineering for remote-first startups
-- Scalable operational platforms
+* Power BI
+* SQL
+* Microsoft Excel
+* Python
+* Data Visualization
+* KPI Reporting
+* Business Intelligence
 
-Tech Stack
+Operations & Project Support
 
-Languages
-
-JavaScript • TypeScript • Python • SQL
-
-Frontend
-
-React • Next.js • Tailwind CSS
-
-Backend
-
-Node.js • Express.js • REST APIs
-
-Databases
-
-PostgreSQL • MySQL • Supabase • MongoDB
+* Project Coordination
+* Administrative Operations
+* Documentation Management
+* Stakeholder Communication
+* Process Improvement
 
 AI & Automation
 
-OpenAI API • n8n • Make.com • Zapier • Prompt Engineering
+* ChatGPT
+* Gemini
+* Prompt Engineering
+* Workflow Automation
+* AI Research
 
-DevOps & Deployment
+Cybersecurity
 
-Docker • Linux • GitHub Actions • Vercel • Netlify
+* Security Monitoring
+* Vulnerability Assessment
+* Incident Response Fundamentals
+* Linux Security Basics
 
 Featured Projects
 
-- OpsAI — AI-powered business operations dashboard
-- LeadFlow — AI lead qualification & automation engine
-- RepoDoc — AI repository documentation generator
+Sales Performance Dashboard
 
-Currently Building
+Power BI dashboard designed to analyze sales trends, revenue performance, and business KPIs.
 
-Building intelligent operational systems and AI-integrated applications focused on automation, scalability, and business efficiency.
+Customer Insights Analysis
 
-Open To
+Data analytics project focused on customer behavior analysis and business decision support.
 
-- Remote engineering opportunities
-- AI automation projects
-- Startup technical roles
-- Full-stack product engineering collaborations
+Operational KPI Monitoring Dashboard
+
+Interactive dashboard for monitoring organizational performance and operational metrics.
+
+AI-Powered Business Research Assistant
+
+AI workflow designed to automate research, summarization, and information analysis.
+
+Network Security Monitoring Lab
+
+Cybersecurity project demonstrating security monitoring and threat detection concepts.
+
+Inventory Management System
+
+Application developed to support inventory tracking and business operations.
+
+
+Certifications
+
+* Google Data Analytics Professional Certificate
+* Google Cybersecurity Professional Certificate
+* Cisco Introduction to Cybersecurity
+* Cisco Cybersecurity Essentials
+* TryHackMe SOC Level 1
+* TryHackMe Pre-Security
+* TryHackMe Junior Security Analyst
+* Hack The Box Academy Fundamentals
+
+
+Professional Experience
+
+Administrative Assistant
+
+Ministry of Education, Borno State
+
+Data Support Officer
+
+Codev Hub
+
+Operations Assistant
+
+Self-Employed Consultant
+
+Freelance Data Analyst
+
+Multiple Clients
+
 
 Connect With Me
 
-- Email: ibrahimharunaalfa1@gmail.com
-- LinkedIn:
-- Portfolio:
+LinkedIn:
+https://www.linkedin.com/in/ibrahim-haruna-alfa/
+
+Portfolio:
+
+Email:
+[ibrahimharunaalfa1@gmail.com](mailto:ibrahimharunaalfa1@gmail.com)
+
+Location:
+Nigeria (Open to Remote Opportunities)
+
+Current Focus
+
+* Data Analytics
+* Business Intelligence
+* AI Automation
+* Cybersecurity
+* Remote Opportunities
